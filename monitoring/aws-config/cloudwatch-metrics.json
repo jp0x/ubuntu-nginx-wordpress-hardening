@@ -1,0 +1,18 @@
+{
+    "Namespace": "WordPress",
+    "MetricData": [
+      {
+        "MetricName": "CPUUtilization",
+        "Dimensions": [
+          {
+            "Name": "InstanceId",
+            "Value": "YOUR_INSTANCE_ID"
+          }
+        ],
+        "Timestamp": "2025-01-20T00:00:00Z",
+        "Value": 75.0,
+        "Unit": "Percent"
+      }
+    ]
+  }
+  
