@@ -24,9 +24,3 @@ Este repositorio proporciona una implementación de hardening para un servidor U
 5. **Monitoreo en la Nube**:
    - **AWS CloudWatch** para métricas adicionales del entorno AWS.
    - **GuardDuty** habilitado para la detección de amenazas en tiempo real.
-
-## Requisitos Previos
-
-1. **Cuenta de AWS** con permisos para crear recursos como EC2, S3, CloudWatch, etc.
-2. **AWS CLI**, **Terraform**, y **Docker** instalados en el entorno local.
-3. **Conocimientos básicos de Linux**, administración de servidores y redes.
